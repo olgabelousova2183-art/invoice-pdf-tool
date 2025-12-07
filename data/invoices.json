@@ -1,0 +1,21 @@
+[
+  {
+    "invoice_id": "INV-101",
+    "customer_name": "ООО Компания А",
+    "amount": 5000.00,
+    "date": "2024-01-20",
+    "description": "Разработка веб-сайта",
+    "tax": 1000.00,
+    "total": 6000.00
+  },
+  {
+    "invoice_id": "INV-102",
+    "customer_name": "ИП Смирнов",
+    "amount": 1500.00,
+    "date": "2024-01-21",
+    "description": "SEO оптимизация",
+    "tax": 300.00,
+    "total": 1800.00
+  }
+]
+
