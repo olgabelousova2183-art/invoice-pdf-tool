@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python&logoColor=white)
+![PDF](https://img.shields.io/badge/PDF-Generator-red)
+![Automation](https://img.shields.io/badge/Automation-Enabled-orange)
+![xhtml2pdf](https://img.shields.io/badge/xhtml2pdf-Library-green)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
 # Генератор PDF-документов
 
 Скрипт для генерации PDF-документов из CSV/JSON данных и HTML-шаблонов.
@@ -78,4 +84,5 @@ python pdf_generator.py
 ## Примеры
 
 См. файлы в директориях `data/` и `templates/` для примеров формата данных и шаблонов.
+
 
